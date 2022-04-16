@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Mcihael 👋
 
 #### My statistics:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichal6&show_icons=true&theme=radical)
