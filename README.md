@@ -7,11 +7,11 @@ I use a lot of technologies:
 <img src=""
 </div> -->
 
-Java, Spring, Python, Angular, TypeScript, PostgreSQL, C, Assembly.  I try to use a SOLID principles, Design Patterns, clean code. 
+Java, Spring, Python, Angular, TypeScript, PostgreSQL, C, Assembly, PHP.  I try to use a SOLID principles, Design Patterns, clean code. 
+
+I have implemented CI/CD to my projects: FTM ([server](https://github.com/ichal6/Follow-the-money-server) and [client](https://github.com/ichal6/Follow-the-money-Client) side).
 
 I program for myself and for my studies. 
-
-I currently learn PHP and implement CI/CD to my projects: FTM ([server](https://github.com/ichal6/Follow-the-money-server) and [client](https://github.com/ichal6/Follow-the-money-Client) side).
 
 In the future I want to learn WebSocket and Electron framework
 
