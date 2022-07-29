@@ -16,7 +16,7 @@ I program for myself and for my studies.
 In the future I want to learn WebSocket and Electron framework
 
 <p align="left">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=calm&animation=default&layout=default&font=default)](https://github.com/piyushsuthar/github-readme-quotes"  alt="This should be a random quote, but 'No code has zero defects.'"/>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=calm&animation=default&layout=default&font=default)](https://github.com/piyushsuthar/github-readme-quotes"  alt="Walking on water and developing software from a specification are easy if both are frozen. —  Edward V. Berard "/>
 </p>
 
 ## My statistics:
