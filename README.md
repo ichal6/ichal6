@@ -1,4 +1,4 @@
-### Hi there! I'm Michael 👋
+### Hi there! I'm Michael👋
 I use a lot of technologies:
 <!-- <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40" /> 
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##  [My resume](https://ichal6.github.io/CV/)
+[PDf version](https://github.com/ichal6/CV/blob/master/pdf/latest/Micha%C5%82_Lechowicz_Resume.pdf)
