@@ -16,7 +16,7 @@ I program for myself and for my studies.
 In the future I want to learn WebSocket and Electron framework
 
 <p align="left">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=calm&animation=default&layout=default&font=default)](https://github.com/piyushsuthar/github-readme-quotes"  alt="Walking on water and developing software from a specification are easy if both are frozen. —  Edward V. Berard "/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"  alt="Walking on water and developing software from a specification are easy if both are frozen. —  Edward V. Berard "/>
 </p>
 
 ## My statistics:
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##  [My resume](https://ichal6.github.io/CV/)
-[PDf version](https://github.com/ichal6/CV/blob/master/pdf/latest/Micha%C5%82_Lechowicz_Resume.pdf)
+[PDF version](https://github.com/ichal6/CV/blob/master/pdf/latest/Micha%C5%82_Lechowicz_Resume.pdf)
