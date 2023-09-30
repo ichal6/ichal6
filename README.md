@@ -13,8 +13,6 @@ I have implemented CI/CD to my projects: FTM ([server](https://github.com/ichal6
 
 I program for myself and for my studies. 
 
-In the future I want to learn NextJS, GraalVM and Tauri
-
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"  alt="Walking on water and developing software from a specification are easy if both are frozen. —  Edward V. Berard "/>
 </p>
